@@ -53,15 +53,21 @@ layout: default
     </span>
 
   </header>
-{% if page.list %}
+{% if page.list.type == 'timeline' %}
 <div class="row">
   <div class="col l7">
     <div class="row">
 {% endif %}
   <article class="post-content">
     {{ content }}
+{% if page.list.type == 'complete' %}
+    <div class="list-content">
+    {% assign list=site.data.index[page.list.name] %}
+    {% include list.html list=list %}
+    </div>
+{% endif %}
   </article>
-{% if page.list %}
+{% if page.list.type == 'timeline' %}
     </div>
   </div>
   <div class="col l4 offset-l1">

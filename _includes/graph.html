@@ -35,6 +35,12 @@
         },
         scaleFontSize: 0,
         legend: {display: false},
+    {% if graph.title %}
+        title: {
+            display: true,
+            text: "{{ graph.title }}"
+        },
+    {% endif %}
     {% else %}
         circumference: Math.PI,
         legend: {

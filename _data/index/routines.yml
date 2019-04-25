@@ -4,12 +4,12 @@
   id : csd
   class: l4 offset-l1
   type: doughnut
-  aspects: Sleep, Sport, Food, Free time, Work at home, Work in place, Moving
-  percentage: 32, 4, 12, 11, 13, 20, 8
+  aspects: Sleep, Food, Sport, Free time, Work at home, Work in place, Moving
+  percentage: 7, 3, 1, 3, 3, 5, 2
 
 - label: Perfect daily routines
   id : csp
   class: l4 offset-l1
-  type: pie
-  aspects: Sleep, Sport, Food, Free time, Work at home
-  percentage: 32, 4, 12, 19, 33
+  type: doughnut
+  aspects: Sleep, Food, Sport, Free time, Work at home
+  percentage: 7, 3, 2, 4, 8

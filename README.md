@@ -1,92 +1,16 @@
-# Update 01/31/2019
+---
+layout: page
+permalink: about.html
+---
+#### My iterative resume
+This repository is my iterative resume theme powered by jekyll forked from the repository [bilardi/leonids](https://github.com/bilardi/leonids).
 
-Waiting for version 2.0
-| Version | Description | Date |
-| --- | --- | --- |
-| 1.3 | New customizations for hidding sections or pages | 01/28/2019 |
-| 1.4 | New features: Daily routines, rating bar and video | 01/31/2019 |
-
-## Details of new customizations
-* text / background colors and images from _config.yml
-* sidebar from _config.yml and each page with layout = page
-* post navigation from _config.yml
-* view of links of categories and tags into each layout from _config.html
-* view timeline list for category and tag page
-* 404 page
-
-## Details of new features
-* daily routines on resume page
-* rating bar on timelines
-* video on post
-
-# Update 07/09/2018
-
-I'm planning to refactor Leonids theme!!!
-
-The goal is really simple: make documentation more intuitive and deployment simpler!!!
-
-Here is the plan:
-
-| Version | Description | Date |
-| --- | --- | --- |
-| 1.1 | Jekyll version deployable with gem | 07/15/2018 |
-| 1.2 | New features: Pagination, Prev/Next post | 07/22/2018 |
-| 2.0 | Gatsby or Vuepress version (vote in Issues) | who knows... |
-
-As the project was and will be designed to improve your writing experience, only documentation, gem, deployment process with CI relevant PRs are acceptable in the future.
-
-I want you to know how much I value your support.
-
-Share it to your timeline!
-
-# Update 05/06/2016
-
-Important! It's better to download the gzipped files instead of forking the repo. I would really appreciate if you could give me a star. 😁
-
-This project is under MIT license, so feel free to make it your own.
-
-# Leonids Jekyll Themes
-
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
-
-## What is Leonids?
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Simple and clear permalink structure.
-* Support for Disqus Comments.
-* Support for multi-authors.
-* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
-
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
-
-## Quick setup
-
-```
-git clone https://github.com/renyuanz/leonids
-cd leonids
-jekyll server
-```
-
-Check out your awesome blog at `http://localhost:4000` and Cheers!
-
-## Running with Docker
-
-```
-docker run --rm -it --volume=$PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:pages jekyll serve --watch --force_polling
-```
-
-## Resume Page by [@Skn0tt](https://github.com/Skn0tt)
-Leonids features a simple resume page. It is divided up into five sections:
-
-* Bio (Edit \_data/index/careers.yml)
-* Education (Edit \_data/index/education.yml)
-* Skills (Edit \_data/index/skills.yml)
-* Projects (Edit \_data/index/projects.yml)
-* About (Edit \_includes/sections/about.html)
-
-You can put all your info into these files, and they will be featured on the resume page.
-
-## TODO
-
-- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
-- [ ] Multi languages support.
+What I done
+- I forked the repository of [bilardi/leonids](https://github.com/bilardi/leonids)
+- I followed this macro [gist](https://gist.github.com/bilardi/6b6cdcfabed5e5976ba697544be714d6) guide
+- I saved the branch named leonids as my [sync](https://gist.github.com/bilardi/97d4098c2ff21065d2d29c715dcb3812) with the original repository
+- I used the free icons of [fontawesome.com](https://fontawesome.com/icons)
+- I redirect resume page on homepage because the homepage is my resume
+- I removed the original posts and moved the README.md of the repository forked into [CHANGES.md](https://github.com/bilardi/notes/blob/master/CHANGES.md)
+- I wrote the contents like the mind map below
+![My mind map](https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/about/mind.map.resume.png)

@@ -3,19 +3,17 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: My iterative resume
 email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
-repository-forked: http://github.com/renyuanz/leonids/ # in the footer
+description: A simple and awesome iterative resume theme powered by jekyll.
+url: https://bilardi.github.io/resume # the base hostname & protocol for your site
+repository-forked: http://github.com/bilardi/leonids/ # in the footer
 favicon: # links of your favicon
-  - favicon.ico
-  - favicon.png
-#  - external link
-keywords: ["blog", "jekyll"]
+  - https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/favicon.ico
+keywords: ["resume", "iterative", "jekyll"]
 meta:
-  twitter-image: leonids-logo.png # or external link
-  og-image: leonids-logo.png # or external link
+  twitter-image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/alessandra/index/glider.3d.png # or external link
+  og-image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/alessandra/index/glider.3d.png # or external link
 home:
   hide-on-sidebar: false
 #  icon: fa-leaf
@@ -58,19 +56,19 @@ collection:
     btn-on-categories: true
 resume:
   hide-routines: false
-  hide-projects: false
-  hide-skills: false
+  hide-projects: true
+  hide-skills: true
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Rome
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /:categories/:title
 
 kramdown:
   auto_ids: true
@@ -90,13 +88,13 @@ plugins:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png # or external link
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: My iterative resume
+  avatar:
+  job:
+  bio:
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: abilardi #username
   facebook: #username
   google:
     plus: #username
@@ -105,10 +103,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: bilardi #username
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  stackoverflow: 1472538 #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: bilardi #username
   skype: #username
   xing: #username
   instagram: #username
@@ -126,9 +124,17 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
-  wikipedia: #username
+  wikipedia: Bilardi #username
   custom:
-    - url: http://github.com/renyuanz/leonids/
+    - url: https://bilardi.github.io/resume/feed.xml
+      icon: fa-rss
+    - url: https://www.pandle.net/
+      icon: fa-share-alt
+    - url: https://bilardi.github.io/bookmarks/
+      icon: fa-bookmark
+    - url: https://bilardi.github.io/notes/
+      icon: fa-tags
+    - url: http://github.com/bilardi/leonids/
       icon: fa-code-fork
 
 webrick:
@@ -139,17 +145,17 @@ style:
   text:
     color: rgba(0, 0, 0, 0.87)
   author:
-    color: "#F36170"
+    color: "#fff"
   background:
     color: "#f5f5f5"
-    image: #http://domain.name/path/background.jpg
+    image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/alessandra/index/background.jpg #http://domain.name/path/background.jpg
     size: cover
   navigation-background:
     color: "#f6f6f6"
   color:
     white: "#fff"
     primary: "#42b983"
-    secondary: "#8d7edc"
+    secondary: rgba(0, 0, 0, 0.87)
     success: "#65e892"
     danger: "#f83e4b"
     warning: "#F5A623"
