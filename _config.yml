@@ -89,6 +89,9 @@ plugins:
 #
 owner:
   name: My iterative resume
+  author:
+    name: Alessandra Bilardi #your name
+    link: https://alessandra.bilardi.net/ #your homepage
   avatar:
   job:
   bio:
