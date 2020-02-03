@@ -7,6 +7,9 @@
     - icon: fa-tags
       url: https://bilardi.github.io/notes/
       title: My notes
+    - icon: fa-tags
+      url: https://pandle.github.io/net/
+      title: PandLe
 
 - name: homepage v2.0
   date: 2019

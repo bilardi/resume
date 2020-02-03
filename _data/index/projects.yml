@@ -11,4 +11,4 @@
 
 - name: move my site from VM to IaaS
   descr: "Why do I have to keep a VM and/or some services for a simple blog or a static web page? Why do I have to reinvent the wheel when there are a lot of good provider that they do it for me? So what is the better provider for me? Well, I can manage all with GitHub, I can forecast a GitLab backup (or another provider) and when I can not manage with a Jekyll theme, I can deploy something on a cloud provider."
-  local: projects/my-websites
+  local: projects/my-website
