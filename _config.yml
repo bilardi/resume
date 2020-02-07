@@ -6,7 +6,7 @@
 title: My iterative resume
 email:
 description: A simple and awesome iterative resume theme powered by jekyll.
-url: https://bilardi.github.io/resume # the base hostname & protocol for your site
+url: https://alessandra.bilardi.net/resume # the base hostname & protocol for your site
 repository-forked: http://github.com/bilardi/leonids/ # in the footer
 favicon: # links of your favicon
   - https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/favicon.ico
