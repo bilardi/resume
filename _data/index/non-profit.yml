@@ -1,3 +1,12 @@
+- name:  Self-driving car @ Coderdojo
+  descr: "Self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input. It is programmable, so we have to help it to learn the right way!"
+  github: https://github.com/bilardi/arduino
+  link:
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/line-follower-20200201
+      title: Easy levels solution
+  date: 2020
+
 - name: Rubik's cube @ Coderdojo
   descr: "Rubik's cube is an interesting way to learn coding and problem solving. So I started to use it for this goal."
   github: https://github.com/bilardi/cuber
