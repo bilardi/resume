@@ -1,3 +1,18 @@
+- name: Automation: from local test to production deploy
+  descr: "The Corley Cloud offered me a space for my talk on Automation where I shared my CI/CD experience."
+  link:
+    - icon: fa-calendar
+      url: https://2020.cloudconf.it/
+      title: CloudConf2020 Streaming
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/automation-from-local-test-to-production-deploy-20201105
+      title: Pixartprinting
+    - icon: fa-twitter
+      url: https://twitter.com/i/events/1324396610206523393
+      title: Tweets
+  date: 2020
+  image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2020.jpg
+
 - name: AWS database solutions and open sources
   descr: "The Corley Cloud offered me a lightning talk on Database and a mentors' session where I shared my AWS experience."
   link:
