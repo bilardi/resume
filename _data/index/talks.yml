@@ -1,4 +1,4 @@
-- name: Automation: from local test to production deploy
+- name: "Automation: from local test to production deploy"
   descr: "The Corley Cloud offered me a space for my talk on Automation where I shared my CI/CD experience."
   link:
     - icon: fa-calendar
