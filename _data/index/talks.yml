@@ -54,8 +54,8 @@
   website: https://bilardi.github.io/gbrowse.org/
   local: projects/project-closed
   link:
-    - icon: fa-link
+    - icon: fa-calendar
       url: http://gmod.org/wiki/August_2009_GMOD_Meeting#GBrowse.org
-      title: GMOD Meeting
+      title: GMOD Meeting Oxford
   date: 2009
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/GMOD.meeting.2009.JPG
