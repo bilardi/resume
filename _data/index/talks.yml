@@ -1,3 +1,18 @@
+- name: "Anomaly Detection on AWS"
+  descr: "I was on the Corley Cloud staff and I shared my experience on Anomaly Detection on some AWS services."
+  link:
+    - icon: fa-calendar
+      url: https://cloudparty.corley.it/
+      title: CloudParty2022
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/corleycloud
+      title: Corley
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_cloudparty-activity-6935717840201109506-N4Ea
+      title: LinkedIn
+  date: 2022
+  image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudParty.2022.jpg
+
 - name: "Automation: from local test to production deploy"
   descr: "The Corley Cloud offered me a space for my talk on Automation where I shared my CI/CD experience."
   link:

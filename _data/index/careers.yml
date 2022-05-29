@@ -1,8 +1,22 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Corley
+  link: https://www.corley.it/
+  date: Apr 2022 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Data & Automation Specialist
+  rating-bar:
+    - rating: 5
+      total: 5
+      icon-fill: fa-graduation-cap
+      icon-empty: fa-thumbs-o-up
+    - rating: 4
+      total: 4
+      icon-fill: fa-smile-o
+      icon-empty: fa-thumbs-o-up
+
 - name: Pixartprinting
   link: https://www.pixartprinting.it/
-  date: Mar 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Mar 2016 - Feb 2022
   job: Data & Automation Specialist
   rating-bar:
     - rating: 4
