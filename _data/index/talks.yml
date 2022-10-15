@@ -1,3 +1,21 @@
+- name: "Data transformation on AWS"
+  descr: "I was on the Corley Cloud staff and I shared my experience on Data transformation on the AWS services."
+  link:
+    - icon: fa-calendar
+      url: https://2022.cloudconf.it/
+      title: CloudConf2022
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/corleycloud
+      title: Corley
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/gabrielemittica_cloudconf-torino-cloudconf2022-activity-6986630882174353409-R7bk/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/i/events/1581231738789023744
+      title: Tweets
+  date: 2022
+  image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2022.jpg
+
 - name: "Anomaly Detection on AWS"
   descr: "I was on the Corley Cloud staff and I shared my experience on Anomaly Detection on some AWS services."
   link:
