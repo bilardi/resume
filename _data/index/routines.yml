@@ -4,12 +4,12 @@
   id : csp
   class: l4 offset-l1
   type: doughnut
-  aspects: Sleep, Food, Sport, Free time, Work at home
+  aspects: Sleep,Food,Sport,Free time,Work at home
   percentage: 7, 3, 2, 4, 8
 
 - label: Perfect working day routines
   id : csd
   class: l4 offset-l1
   type: doughnut
-  aspects: Emails, Consulting, Calls, Playing & Learning, Documentation
+  aspects: Emails,Consulting,Calls,Playing & Learning,Documentation
   percentage: 1, 4, 1, 1, 1
