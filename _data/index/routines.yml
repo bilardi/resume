@@ -1,13 +1,13 @@
 # routines section data
 
-  - label: Perfect daily routines
+- label: Perfect daily routines
   id : csp
   class: l4 offset-l1
   type: doughnut
   aspects: Sleep, Food, Sport, Free time, Work at home
   percentage: 7, 3, 2, 4, 8
 
-  - label: Perfect working day routines
+- label: Perfect working day routines
   id : csd
   class: l4 offset-l1
   type: doughnut
