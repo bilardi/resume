@@ -1,10 +1,30 @@
+- name:  AI @ Coderdojo
+  descr: "Why teach only to kids ? Artificial intelligence is the topical matter: let's get to know its features !"
+  link:
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/classification-20230325-256859682
+      title: Object detection
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/natural-conversation-20230506
+      title: ChatGPT
+  date: 2023
+
+- name:  Minetest @ Coderdojo
+  descr: "Minetest is an alternative open source to Minecraft. It is possible to use it in own server, and you can create circuit and even more !"
+  github: https://github.com/bilardi/minetest
+  link:
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/minetest-20200627
+      title: Minetest basics
+  date: 2020
+
 - name:  Self-driving car @ Coderdojo
   descr: "Self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input. It is programmable, so we have to help it to learn the right way!"
   github: https://github.com/bilardi/arduino
   link:
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/line-follower-20200201
-      title: Easy levels solution
+      title: mbot
   date: 2020
 
 - name: Rubik's cube @ Coderdojo
@@ -16,14 +36,33 @@
       title: Easy levels solution
   date: 2019
 
+- name: Find the matches @ Coderdojo
+  descr: "Find a match is the basis of many technologies as genomic sequencing, text or image alignment, and even more !"
+  link:
+    - icon: fa-cat
+      url: https://scratch.mit.edu/projects/205923589
+      title: Scratch
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/find-the-matches-138708833
+      title: Behaviour
+  date: 2018
+
 - name: Arduino @ Coderdojo
   descr: "Arduino is an open-source hardware and software company. I collected some lessons for primary school."
-  github: https://github.com/bilardi/arduino
-  date: 2018
+  github: https://scratch.mit.edu/projects/205923589
+  link:
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/arduino-20170626
+      title: Circuits
+  date: 2017
 
 - name: Microbit @ Coderdojo
   descr: "The Micro Bit (also referred to as BBC Micro Bit, stylized as micro:bit) is an open source hardware ARM-based embedded system designed by the BBC for use in computer education in the UK. I collected some lessons for primary and secondary school."
   github: https://github.com/bilardi/microbit
+  link:
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/microbit-138494787
+      title: Rules
   date: 2017
 
 - name: Scratch @ Coderdojo

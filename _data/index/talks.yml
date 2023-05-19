@@ -1,3 +1,21 @@
+- name: "Forecasting in AWS"
+  descr: "I was on the Corley Cloud staff and I shared my experience on Forecasting on the AWS services."
+  link:
+    - icon: fa-calendar
+      url: https://2023.cloudconf.it/
+      title: CloudConf2023
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/forecasting-in-aws-20230516
+      title: Corley
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/corley_sostenibilitaeq-cloud-activity-7064504852038492160-iS1k/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/abilardi/status/1659683977689530369
+      title: Tweets
+  date: 2023
+  image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2023.jpg
+
 - name: "Data transformation on AWS"
   descr: "I was on the Corley Cloud staff and I shared my experience on Data transformation on the AWS services."
   link:
