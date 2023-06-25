@@ -1,5 +1,5 @@
 - name: "Anomaly Detection and IP Insights"
-  descr: "The HackInBo offered me a space for my talk on Anomaly Detection and Network Intrusion Detection as DDoS mitigation solutions"
+  descr: "The HackInBo offered me a space for my talk on Anomaly Detection and Network Intrusion Detection as DDoS mitigation solutions."
   link:
     - icon: fa-calendar
       url: https://www.hackinbo.it/programma.php?id=24
@@ -17,7 +17,7 @@
       url: https://twitter.com/abilardi/status/1667663738273513475
       title: Tweets
   date: 2023
-  image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2023.jpg
+  image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/HackInBoSpringEdition.2023.jpg
 
 - name: "Forecasting in AWS"
   descr: "I was on the Corley Cloud staff and I shared my experience on Forecasting on the AWS services."
