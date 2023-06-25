@@ -1,3 +1,24 @@
+- name: "Anomaly Detection and IP Insights"
+  descr: "The HackInBo offered me a space for my talk on Anomaly Detection and Network Intrusion Detection as DDoS mitigation solutions"
+  link:
+    - icon: fa-calendar
+      url: https://www.hackinbo.it/programma.php?id=24
+      title: HackInBo Spring Edition 2023
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/anomaly-detection-and-ip-insights-20230610
+      title: Slide
+    - icon: fa-youtube
+      url: https://youtu.be/DpkX6pHWraE
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/hackinbo-group_talk-hib23-hibusiness-activity-7073243291240046592-o5Qf/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/abilardi/status/1667663738273513475
+      title: Tweets
+  date: 2023
+  image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2023.jpg
+
 - name: "Forecasting in AWS"
   descr: "I was on the Corley Cloud staff and I shared my experience on Forecasting on the AWS services."
   link:
@@ -6,7 +27,7 @@
       title: CloudConf2023
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/forecasting-in-aws-20230516
-      title: Corley
+      title: Slide
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/corley_sostenibilitaeq-cloud-activity-7064504852038492160-iS1k/
       title: LinkedIn
@@ -24,7 +45,7 @@
       title: CloudConf2022
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/data-transformation-on-aws-2022
-      title: Corley
+      title: Slide
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/gabrielemittica_cloudconf-torino-cloudconf2022-activity-6986630882174353409-R7bk/
       title: LinkedIn
@@ -42,7 +63,7 @@
       title: CloudParty2022
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/anomaly-detection-overview-20220526
-      title: Corley
+      title: Slide
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_cloudparty-activity-6935717840201109506-N4Ea
       title: LinkedIn
@@ -75,7 +96,7 @@
       title: CloudConf2019 Torino
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/aws-database-solutions-and-open-sources-20190328
-      title: Pixartprinting
+      title: Slide
     - icon: fa-twitter
       url: https://twitter.com/i/events/1320007049409945600
       title: Tweets
@@ -90,10 +111,10 @@
       title: AWS Summit Milano
     - icon: fa-slideshare
       url: https://www.slideshare.net/AmazonWebServices/database-relazionali-gestiti
-      title: Amazon Web Services
+      title: AWS Slide
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/evolving-our-datastore-20180327
-      title: Pixartprinting
+      title: My Slide
     - icon: fa-twitter
       url: https://twitter.com/i/events/1105920830771470342
       title: Tweets
