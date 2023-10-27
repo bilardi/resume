@@ -1,0 +1,47 @@
+- name: "Parallelize data processing"
+  descr: "I shared my stydy on which open source libraries can compete with Pandas, PySpark with some activities as apply, groupby and sum."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/296507635/
+      title: Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/parallelize-data-processing
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=tSPDnNci6EM
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_pydata-venice-postcovid-activity-7123006497952849920-clEF/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/PydataVenice/status/1717244021809049843
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/pandle/PyDataVE/tree/master/meetups/13_Parallelize_data_processing
+      title: GitHub
+  date: 2023/10
+  image: https://secure.meetupstatic.com/photos/event/1/e/1/1/600_516307697.webp
+
+- name: "The Fourier transformation"
+  descr: "I shared my experience on Fourier transformation to divide the signals."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/294621445/
+      title: Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/AlessandraBilardi/the-fourier-transformation-20230723
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=jtouR7XwSDc
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_pydatave-12-trasformate-di-fourier-mer-activity-7089651854246080512-zYOc
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/PydataVenice/status/1683886560830271521
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/pandle/PyDataVE/tree/master/meetups/12_the_Fourier_transformation
+      title: GitHub
+  date: 2023/07
+  image: https://secure.meetupstatic.com/photos/event/b/4/9/5/600_514186229.webp
