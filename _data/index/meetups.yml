@@ -1,3 +1,18 @@
+- name: "Forecasting in AWS"
+  descr: "I shared my stydy on which AWS services there are for forecasting scenarious."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/it-IT/aws-user-group-padova/events/298480058/
+      title: Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshows/forecasting-in-aws-20240201/266127598
+      title: Slide
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_machinelearning-activity-7159244498231832576-LlsD/
+      title: LinkedIn
+  date: 2024/02
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/meetups/AUGPadova.2024.jpg
+
 - name: "Parallelize data processing"
   descr: "I shared my stydy on which open source libraries can compete with Pandas, PySpark with some activities as apply, groupby and sum."
   link:

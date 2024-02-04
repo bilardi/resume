@@ -1,3 +1,27 @@
+- name: "From your laptop to all resource that you need"
+  descr: "The PyData Impact Scholars offered me a space for my talk on how to use AWS resources with Dask."
+  link:
+    - icon: fa-calendar
+      url: https://global2023.pydata.org/pydata-global-impact-scholarship-program-2023/talk/BWZHAR/
+      title: PyData Impact Scholars - PyData Global 2023
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshows/from-your-laptop-to-all-resource-that-you-need-20231209/266127278
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=5gpbho0zLQY&list=PLGVZCDnMOq0reNThLZvyg4qcgLsE8KIzO&index=10
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_llm-data-visualization-activity-7139555079853977600-nA5H
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/abilardi/status/1733792278152372231
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/bilardi/pydata-global/tree/master/2023
+      title: GitHub
+  date: 2023/12
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/PyDataGlobal.2023.jpg
+
 - name: "Anomaly Detection and IP Insights"
   descr: "The HackInBo offered me a space for my talk on Anomaly Detection and Network Intrusion Detection as DDoS mitigation solutions."
   link:
@@ -16,7 +40,7 @@
     - icon: fa-twitter
       url: https://twitter.com/abilardi/status/1667663738273513475
       title: Tweets
-  date: 2023
+  date: 2023/06
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/HackInBoSpringEdition.2023.jpg
 
 - name: "Forecasting in AWS"
@@ -34,7 +58,7 @@
     - icon: fa-twitter
       url: https://twitter.com/abilardi/status/1659683977689530369
       title: Tweets
-  date: 2023
+  date: 2023/05
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2023.jpg
 
 - name: "Data transformation on AWS"
@@ -52,7 +76,7 @@
     - icon: fa-twitter
       url: https://twitter.com/i/events/1581231738789023744
       title: Tweets
-  date: 2022
+  date: 2022/10
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2022.jpg
 
 - name: "Anomaly Detection on AWS"
@@ -67,7 +91,7 @@
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_cloudparty-activity-6935717840201109506-N4Ea
       title: LinkedIn
-  date: 2022
+  date: 2022/05
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudParty.2022.jpg
 
 - name: "Automation: from local test to production deploy"
@@ -85,7 +109,7 @@
     - icon: fa-twitter
       url: https://twitter.com/i/events/1324396610206523393
       title: Tweets
-  date: 2020
+  date: 2020/11
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2020.jpg
 
 - name: AWS database solutions and open sources
@@ -100,7 +124,7 @@
     - icon: fa-twitter
       url: https://twitter.com/i/events/1320007049409945600
       title: Tweets
-  date: 2019
+  date: 2019/10
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2019.jpg
 
 - name: Managed Relational Databases
@@ -118,7 +142,7 @@
     - icon: fa-twitter
       url: https://twitter.com/i/events/1105920830771470342
       title: Tweets
-  date: 2018
+  date: 2018/03
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AWS.Summit.2018.jpg
 
 - name: GBrowse.org
@@ -129,5 +153,5 @@
     - icon: fa-calendar
       url: http://gmod.org/wiki/August_2009_GMOD_Meeting#GBrowse.org
       title: GMOD Meeting Oxford
-  date: 2009
+  date: 2009/08
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/GMOD.meeting.2009.JPG
