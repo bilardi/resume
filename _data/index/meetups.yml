@@ -16,6 +16,9 @@
     - icon: fa-twitter
       url: https://twitter.com/PydataVenice/status/1764687710688522536
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/pandle/PyDataVE/tree/master/meetups/14_Kaggle
+      title: GitHub
   date: 2024/02
   image: https://secure.meetupstatic.com/photos/event/b/b/0/e/600_518987886.webp
 
