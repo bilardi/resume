@@ -1,12 +1,36 @@
+- name: "Kaggle"
+  descr: "I shared my experience on the Kaggle platform."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/299073504/
+      title: Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshows/overview-of-the-kaggle-platform-and-its-competitions/266829185
+      title: Slide
+    - icon: fa-youtube
+      url: https://my.demio.com/recording/ExKArVgc
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7170451981591797760
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/PydataVenice/status/1764687710688522536
+      title: Tweets
+  date: 2024/02
+  image: https://secure.meetupstatic.com/photos/event/b/b/0/e/600_518987886.webp
+
 - name: "Forecasting in AWS"
   descr: "I shared my stydy on which AWS services there are for forecasting scenarious."
   link:
     - icon: fa-meetup
-      url: https://www.meetup.com/it-IT/aws-user-group-padova/events/298480058/
+      url: https://www.meetup.com/aws-user-group-padova/events/298480058/
       title: Meetup
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshows/forecasting-in-aws-20240201/266127598
       title: Slide
+    - icon: fa-youtube
+      url: https://my.demio.com/recording/ExKArVgc
+      title: Talk
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_machinelearning-activity-7159244498231832576-LlsD/
       title: LinkedIn
