@@ -1,3 +1,21 @@
+- name: "How to move your ML system from local to production"
+  descr: "The Incontro DevOps Italia (IDI) offered me a space for my talk on what is the best approach to working with colleagues with different skills."
+  link:
+    - icon: fa-calendar
+      url: https://2024.incontrodevops.it/talks_speakers/
+      title: IDI 2024
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshows/how-to-move-your-ml-system-from-local-to-production-20240315/266829278
+      title: Slide
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_incontrodevopsitalia-talk-automation-activity-7174507271387836417-_u9s
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/abilardi/status/1768742314766172272
+      title: Tweets
+  date: 2024/03
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/IDI.2024.jpg
+
 - name: "From your laptop to all resource that you need"
   descr: "The PyData Impact Scholars offered me a space for my talk on how to use AWS resources with Dask."
   link:
