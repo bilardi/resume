@@ -49,7 +49,7 @@
 
 - name: Arduino @ Coderdojo
   descr: "Arduino is an open-source hardware and software company. I collected some lessons for primary school."
-  github: https://scratch.mit.edu/projects/205923589
+  github: https://github.com/bilardi/arduino
   link:
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/arduino-20170626
