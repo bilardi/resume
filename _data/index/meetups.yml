@@ -1,3 +1,27 @@
+- name: "OpenCV"
+  descr: "I shared my experience on the library OpenCV."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/299846046/
+      title: Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/overview-of-the-opencv-library-and-some-use-cases-20240419/267613612
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=co5g1noQn08
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7188078587932008448/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://twitter.com/abilardi/status/1782317005363704018
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/pandle/PyDataVE/tree/master/meetups/15_OpenCV
+      title: GitHub
+  date: 2024/03
+  image: https://secure.meetupstatic.com/photos/event/2/c/3/e/600_519791326.webp
+
 - name: "Kaggle"
   descr: "I shared my experience on the Kaggle platform."
   link:

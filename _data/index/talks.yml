@@ -1,3 +1,15 @@
+- name: "Corley Innovation Day: ML & AI on AWS"
+  descr: "Together my bosses, we talked on AWS officies in Milan about our experiences in ML & AI."
+  link:
+    - icon: fa-calendar
+      url: https://corley.it/news/2024-03-05-corley-innovation-day-ml-ai.html
+      title: ML & AI on AWS
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/corley_amazon-aws-corley-activity-7176535021057388544-pvSg/
+      title: LinkedIn
+  date: 2024/03
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CorleyInnovationDay.202403.png
+
 - name: "How to move your ML system from local to production"
   descr: "The Incontro DevOps Italia (IDI) offered me a space for my talk on what is the best approach to working with colleagues with different skills."
   link:
