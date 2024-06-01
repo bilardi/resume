@@ -1,3 +1,42 @@
+- name: "IoT: ingestion, streaming, real-time and interactive data analysis"
+  descr: "I was on the Corley Cloud staff and I shared my experience on IoT and Data Analytics on the AWS services."
+  link:
+    - icon: fa-calendar
+      url: https://2024.cloudconf.it/
+      title: CloudConf2024
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/iot-ingestion-streaming-real-time-and-interactive-data-analysis-2024-05-29/269454462
+      title: Slide
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_amazon-sagemaker-generativeai-activity-7202622898388275200-LwSO
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1796858054668853645
+      title: Tweets
+  date: 2024/05
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf2024.png
+
+- name: "MLOps vs LLMOps"
+  descr: "MLOps @ localhost offered me a space for my talk on a pragmatic approach to manage ML systems by workflows and use cases."
+  link:
+    - icon: fa-calendar
+      url: https://www.grusp.org/conferenze_/mlops-127-0-0-1-21-maggio-2024/
+      title: MLOps @ localhost
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/mlops-vs-llmops-by-workflows-and-use-cases-2024-05-21/269453544
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=m9cq9DU7B-Q
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_mlops-localhost-devops-activity-7200750353007423488-dDAP
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1794986699891634377
+      title: Tweets
+  date: 2024/05
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/MLOps.localhost.2024.png
+
 - name: "Corley Innovation Day: ML & AI on AWS"
   descr: "Together my bosses, we talked at the AWS officies in Milan about our experiences in ML & AI."
   link:
@@ -19,6 +58,9 @@
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshows/how-to-move-your-ml-system-from-local-to-production-20240315/266829278
       title: Slide
+    - icon: fa-youtube
+      url: 
+      title: Talk
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_incontrodevopsitalia-talk-automation-activity-7174507271387836417-_u9s
       title: LinkedIn
@@ -150,7 +192,7 @@
       title: CloudConf2019 Torino
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/aws-database-solutions-and-open-sources-20190328
-      title: Slide
+      title: Pixartprinting
     - icon: fa-twitter
       url: https://twitter.com/i/events/1320007049409945600
       title: Tweets
@@ -176,7 +218,7 @@
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AWS.Summit.2018.jpg
 
 - name: GBrowse.org
-  descr: "GMOD Staff invited me after some years remote collaboration on GBrowse project to present GBrowse.org."
+  descr: "GMOD Staff invited me after some years of remote collaboration on GBrowse project to present GBrowse.org."
   website: https://bilardi.github.io/gbrowse.org/
   local: projects/project-closed
   link:

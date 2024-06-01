@@ -1,9 +1,30 @@
+- name: "How to analyze the data arriving from the IoT ?"
+  descr: "I shared an use case about a choose among AWS services in IoT and Data Analytics."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/300425729/
+      title: AWS UG Venezia Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/how-to-analyze-the-data-arriving-from-the-iot-2024-05-16/269451919
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=JeQ-gOaCTwo
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7199466896658747392
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1793705195559416180
+      title: Tweets
+  date: 2024/05
+  image: https://secure.meetupstatic.com/photos/event/a/a/c/1/600_520423713.webp
+
 - name: "OpenCV"
   descr: "I shared my experience on the library OpenCV."
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/pydata-venice/events/299846046/
-      title: Meetup
+      title: PyData Venice Meetup
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshow/overview-of-the-opencv-library-and-some-use-cases-20240419/267613612
       title: Slide
@@ -19,7 +40,7 @@
     - icon: fa-github
       url: https://github.com/pandle/PyDataVE/tree/master/meetups/15_OpenCV
       title: GitHub
-  date: 2024/03
+  date: 2024/04
   image: https://secure.meetupstatic.com/photos/event/2/c/3/e/600_519791326.webp
 
 - name: "Kaggle"
@@ -27,7 +48,7 @@
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/pydata-venice/events/299073504/
-      title: Meetup
+      title: PyData Venice Meetup
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshows/overview-of-the-kaggle-platform-and-its-competitions/266829185
       title: Slide
@@ -51,7 +72,7 @@
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/aws-user-group-padova/events/298480058/
-      title: Meetup
+      title: AWS UG Padova Meetup
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshows/forecasting-in-aws-20240201/266127598
       title: Slide
@@ -69,7 +90,7 @@
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/pydata-venice/events/296507635/
-      title: Meetup
+      title: PyData Venice Meetup
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/parallelize-data-processing
       title: Slide
@@ -93,7 +114,7 @@
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/pydata-venice/events/294621445/
-      title: Meetup
+      title: PyData Venice Meetup
     - icon: fa-slideshare
       url: https://www.slideshare.net/AlessandraBilardi/the-fourier-transformation-20230723
       title: Slide
