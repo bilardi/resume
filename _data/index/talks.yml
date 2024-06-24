@@ -1,3 +1,21 @@
+- name: "Custom processing and modeling with Amazon SageMaker"
+  descr: "The AI Conf offered me a space for my talk on how to processing and modeling with own custom code on the Amazon SageMaker services."
+  link:
+    - icon: fa-calendar
+      url: https://www.aiconf.it/2024
+      title: AIConf2024
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/custom-processing-and-modeling-with-amazon-sagemaker-2024-06-17/269853360
+      title: Slide
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_aiconf2024-amazon-sagemaker-activity-7209989323037855744-d0e0
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1804225651769020448
+      title: Tweets
+  date: 2024/06
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AIConf2024.png
+
 - name: "IoT: ingestion, streaming, real-time and interactive data analysis"
   descr: "I was on the Corley Cloud staff and I shared my experience on IoT and Data Analytics on the AWS services."
   link:
