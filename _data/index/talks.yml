@@ -1,3 +1,21 @@
+- name: "A gentle introduction to MLSecOps"
+  descr: "The GrUSP offered me a space for my talk on how to design, plan and manage own ML code for compliance and security."
+  link:
+    - icon: fa-calendar
+      url: https://www.devsecopsday.it/talks_speakers/
+      title: DevSecOpsDay2024
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/a-gentle-introduction-to-mlsecops-2024-10-11/272938603
+      title: Slide
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_speaker-devsecopsday-bologna-activity-7256373723090337793-mPg2
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1850609284251529308
+      title: Tweets
+  date: 2024/10
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/DevSecOpsDay.2024.png
+
 - name: "Custom processing and modeling with Amazon SageMaker"
   descr: "The AI Conf offered me a space for my talk on how to processing and modeling with own custom code on the Amazon SageMaker services."
   link:
@@ -35,7 +53,7 @@
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf2024.png
 
 - name: "MLOps vs LLMOps"
-  descr: "MLOps @ localhost offered me a space for my talk on a pragmatic approach to manage ML systems by workflows and use cases."
+  descr: "The GrUSP offered me a space for my talk on a pragmatic approach to manage ML systems by workflows and use cases."
   link:
     - icon: fa-calendar
       url: https://www.grusp.org/conferenze_/mlops-127-0-0-1-21-maggio-2024/
@@ -68,7 +86,7 @@
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CorleyInnovationDay.202403.png
 
 - name: "How to move your ML system from local to production"
-  descr: "The Incontro DevOps Italia (IDI) offered me a space for my talk on what is the best approach to working with colleagues with different skills."
+  descr: "The GrUSP offered me a space for my talk on what is the best approach to working with colleagues with different skills."
   link:
     - icon: fa-calendar
       url: https://2024.incontrodevops.it/talks_speakers/

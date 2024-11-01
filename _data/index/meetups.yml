@@ -1,3 +1,63 @@
+- name: "Hugging Face"
+  descr: "I shared my experience on the Hugging Face platform."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/it-IT/pydata-venice/events/303579217/
+      title: PyData Venice Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/overview-of-hugging-face-platform-2024-10-24/272938782
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=Cusne_vsIU8
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7256292263121604608/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/1850527428172460042
+      title: Tweets
+  date: 2024/10
+  image: https://secure.meetupstatic.com/photos/event/6/6/4/7/600_523646183.webp
+
+- name: "Custom processing and modeling with Amazon SageMaker"
+  descr: "I shared my experience in Amazon SageMaker for custom solution."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/it-IT/aws-user-group-bari/events/303252569/
+      title: AWS UG Bari Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/custom-processing-and-modeling-with-amazon-sagemaker-2024-09-26/272938530
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=J2us2XI-06k
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/desotech_awsusergroupbari-desotech-activity-7255201057557938176-sNVb
+      title: LinkedIn
+  date: 2024/09
+  image: https://secure.meetupstatic.com/photos/event/2/e/0/8/600_523331784.webp
+
+- name: "Data scientist vs Cloud engineer: who wins ?"
+  descr: "I shared my experience in cross-team situations and the AWS tools to improve the collaboration between different teams."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/it-IT/aws-user-group-venezia/events/303157936/
+      title: AWS UG Venezia Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/data-scientist-vs-cloud-engineer-who-wins-2024-09-19/272938419
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=FNFe2q3XnM4
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7243562176823648256
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1837797253185949855
+      title: Tweets
+  date: 2024/09
+  image: https://secure.meetupstatic.com/photos/event/7/9/5/e/600_523231070.webp
+
 - name: "How to analyze the data arriving from the IoT ?"
   descr: "I shared an use case about a choose among AWS services in IoT and Data Analytics."
   link:
