@@ -25,6 +25,9 @@
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshow/custom-processing-and-modeling-with-amazon-sagemaker-2024-06-17/269853360
       title: Slide
+    - icon: fa-youtube
+      url: https://www.cloudchampions.tech/e/sessione/3481/Processing-e-modeling-custom-con-Amazon-SageMaker
+      title: Talk
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_aiconf2024-amazon-sagemaker-activity-7209989323037855744-d0e0
       title: LinkedIn
@@ -95,7 +98,7 @@
       url: https://www.slideshare.net/slideshows/how-to-move-your-ml-system-from-local-to-production-20240315/266829278
       title: Slide
     - icon: fa-youtube
-      url: 
+      url: https://www.youtube.com/watch?v=mciPGM3bmHQ
       title: Talk
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_incontrodevopsitalia-talk-automation-activity-7174507271387836417-_u9s
