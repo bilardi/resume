@@ -112,7 +112,7 @@ layout: default
 {% include disqus.html %}
 {% endif %}
 
-{% if site.collection.categories.two-columns == true %}
+{% if site.collection.categories.two-columns == true and page.two-columns == nil %}
   </div>
   <div class="col l4 offset-l1">
     <div class="row">
