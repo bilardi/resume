@@ -1,0 +1,11 @@
+<ul class="cat-cloud post-navigation">
+{% assign items = include.list | group_by: tag %}
+{% for item in items %}
+  {% assign item-link="activities/" %}
+  <li style="font-size: {{ item.size | times: 100 | divided_by: include.list.size | plus: 70  }}%">
+    <a class="post-cat" href="{{ site.url }}/{{ item-link }}{{ include.class }}/{{ item.name }}">
+      {{ item.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

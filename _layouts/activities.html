@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="col l7">
+        <div class="row">
+            <div class="col">
+                {% include sections/activities.html %}        
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="list-content">
+                    {% assign list=site.data.index["activities"] %}
+                    {% include activities-list.html list=list %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col l4 offset-l1">
+        <div class="row">
+            <h2>Roles</h2>
+            {% assign roles = site.data.index["activities"] | map: 'roles' | join: ',' | split: ',' | sort %}
+            {% include collections/activities-cloud.html class="roles" list=roles %}
+        </div>
+        <div class="row">
+            <h2>Topics</h2>
+            {% assign topics = site.data.index["activities"] | map: 'topics' | join: ',' | split: ',' | sort %}
+            {% include collections/activities-cloud.html class="topics" list=topics %}
+        </div>
+        <div class="row">
+            <h2>Where</h2>
+            {% assign locations = site.data.index["activities"] | map: 'where' | join: ',' | split: ',' | sort %}
+            {% include collections/activities-cloud.html class="where" list=locations %}
+        </div>
+    </div>
+</div>
+<script>
+    function removeHidden() {
+      segments = window.location.href.split('/')
+      filter_number = segments.length - 1
+      type_number = filter_number - 1
+      if (segments[filter_number] != "activities") {
+        elements = document.getElementsByClassName(segments[type_number] + '-' + segments[filter_number]);
+        for (i = 0; i < elements.length; i++) {
+          elements[i].removeAttribute("hidden");
+        }
+      }
+  }
+</script>

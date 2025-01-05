@@ -1,11 +1,7 @@
----
-layout: page
-permalink: about.html
----
-#### My iterative resume
+# My iterative resume
 This repository is my iterative resume theme powered by jekyll forked from the repository [bilardi/leonids](https://github.com/bilardi/leonids).
 
-What I done
+## What I done
 - I forked the repository of [bilardi/leonids](https://github.com/bilardi/leonids)
 - I followed this macro [gist](https://gist.github.com/bilardi/6b6cdcfabed5e5976ba697544be714d6) guide
 - I saved the branch named leonids as my [sync](https://gist.github.com/bilardi/97d4098c2ff21065d2d29c715dcb3812) with the original repository

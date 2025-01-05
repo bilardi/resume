@@ -1,0 +1,59 @@
+{% assign filter = page.title | downcase %}
+{% assign items = include.list %}
+{% if page.filter_key == 'types' %}
+  {% assign items = include.list | where: "type", page.filter_value %}
+{% endif %}
+{% for item in items %}
+  {% capture roles_classes %}
+    {% for role in item.roles %}roles-{{ role }} {% endfor %}
+  {% endcapture %}
+  {% capture topics_classes %}
+    {% for topic in item.topics %}topics-{{ topic }} {% endfor %}
+  {% endcapture %}
+  {% capture where_classes %}
+    {% for location in item.where %}where-{{ location }} {% endfor %}
+  {% endcapture %}
+    <div class="row {{ roles_classes}} {{ topics_classes }} {{ where_classes }}" style="margin: 25px 0 0 0" {% if filter == page.filter %}hidden{% endif %}>
+            <div class="col {% if item.image %}l10{% endif %}">
+                <h4 style="margin: 0">
+                {% if item.date %}
+                  <span class="post-date">{{ item.date }}</span> - 
+                {% endif %}{{ item.name }}
+                </h4>
+                <p style="margin: 0"><span class="post-meta">
+                  {% assign pos_roles = 0 %}
+                  {% for role in item.roles %}
+                    {% if pos_roles == 0 %}
+                    {% assign pos_roles = 1 %}
+                  <span class="read-time">{{ role }}</span>
+                    {% else %}
+                   & <span class="read-time">{{ role }}</span>
+                    {% endif %}
+                  {% endfor %}:
+                  {% for topic in item.topics %}
+                  <span class="warning-text-color">{{ topic }}</span>
+                  {% endfor %}
+                </span></p>
+                <p style="margin: 0">{{ item.descr }}</p>
+                {% if item.github %}
+                <a href="{{ item.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
+                {% endif %}
+                {% if item.website %}
+                <a href="{{ item.website }} "><i class="fa fa-fw fa-home"></i>Homepage</a>
+                {% endif %}
+                {% if item.local %}
+                <a href="{{ site.url }}/{{ item.local }}"><i class="fa fa-fw fa-hand-pointer-o"></i>{{ item.local }}</a>
+                {% endif %}
+                {% if item.link %}
+                  {% for link in item.link %}
+                <a href="{{ link.url }}"><i class="fa fa-fw {{ link.icon }}"></i>{{ link.title }}</a>
+                  {% endfor %}
+                {% endif %}
+            </div>
+            {% if item.image %}
+            <div class="col l2">
+              <img class="post-media-feature" src="{{ item.image }}" />
+            </div>
+            {% endif %}
+    </div>
+{% endfor %}

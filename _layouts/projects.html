@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="col l7">
+        <div class="row">
+            <div class="col">
+                <header>
+                    <h2 title="{{ page.title | escape }}">{{ page.title }}</h2>
+                </header>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                {{ content }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="list-content">
+                    {% assign list=site.data.index["activities"] %}
+                    {% include activities-list.html list=list %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col l4 offset-l1">
+        <div class="row">
+            <div class="cat-list">
+                {% assign col = page.categories %}
+                {% include collections/categories.html %}
+            </div>
+        </div>
+    </div>
+</div>
