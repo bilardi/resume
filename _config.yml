@@ -47,7 +47,7 @@ collection:
     btn-on-archive: true
     hide-on-tags: true
     btn-on-tags: true
-    two-columns: false
+    two-columns: true
   tags:
     class: tag
     hide-on-post: false

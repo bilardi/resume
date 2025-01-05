@@ -40,7 +40,7 @@ layout: default
 </div><!-- /.video-wrap -->
 {% endif %}
 
-{% if site.collection.categories.two-columns == true %}
+{% if site.collection.categories.two-columns == true and page.two-columns == nil %}
 <div class="row">
   <div class="col l7">
 {% endif %}
@@ -107,7 +107,7 @@ layout: default
   </ul>
 </div><!-- end share-buttons -->
 {% endif %}
-{% if site.owner.disqus-shortname and page.comments == true %}
+{% if site.owner.disqus-shortname and page.comments == true and page.two-columns == nil %}
 <div id="disqus_thread"></div>
 {% include disqus.html %}
 {% endif %}
