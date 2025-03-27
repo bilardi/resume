@@ -1,3 +1,96 @@
+- name: "Data Management on AWS: from caos to centralized governance"
+  descr: "I was on the Corley Cloud staff and I shared my experience on Data management on the AWS services."
+  link:
+    - icon: fa-calendar
+      url: https://2025.cloudconf.it/
+      title: CloudConf2025
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/data-management-on-aws-from-caos-to-centralized-governance-2025-03-26/277254694
+      title: Slide
+    - icon: fa-linkedin
+      url: 
+      title: LinkedIn
+    - icon: fa-twitter
+      url: 
+      title: Tweets
+  date: 2025-03-26
+  type: talk
+  where: CloudConf
+  roles: [speaker]
+  topics: [data,data-management]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf2025.png
+
+- name: "GenAI-powered assistants compared in a real case"
+  descr: "I shared my stydy on how to choose GenAI-powered assistants."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/305666720/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/genai-powered-assistants-compared-in-a-real-case-2025-03-18/277254445
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=9S6oTLqX0nQ
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7308453494032650240
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1902689652303130962
+      title: Tweets
+  date: 2025-03-18
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [speaker,host,organiser]
+  topics: [artificial-intelligence,machine-learning]
+  image: https://secure.meetupstatic.com/photos/event/c/b/9/e/600_526492126.webp
+
+- name: "Mobility & Graph"
+  descr: "I orginized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/305735858/
+      title: PyData Venice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=4ArjG8X26L8
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7302282473550364672
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/1896517707543224762
+      title: Tweets
+  date: 2025-02-27
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [data,data-analytics,data-science]
+  image: https://secure.meetupstatic.com/photos/event/e/9/2/600_525963730.webp
+
+- name: "Forecasting in AWS"
+  descr: "I shared my stydy on which AWS services there are for forecasting scenarious."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/305587789/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/forecasting-in-aws-2025-01-25-aug-venezia/277254243
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=DKGFD6a9rkA
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7294116201117499393
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1888351375400018102
+      title: Tweets
+  date: 2025-01-30
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [speaker,host,organiser]
+  topics: [artificial-intelligence,machine-learning]
+  image: https://secure.meetupstatic.com/photos/event/9/8/d/6/600_525699126.webp
+
 - name: "ComputerVision & CodingProductivity"
   descr: "I presented PyData organization in our first English meetup !"
   link:
@@ -17,7 +110,7 @@
   type: meetup
   where: PyDataVenice
   roles: [speaker,organiser]
-  topics: [data-science,machine-learning]
+  topics: [data,data-science,machine-learning]
   image: https://secure.meetupstatic.com/photos/event/9/0/5/b/600_524556955.webp
 
 - name: "Serverless"
@@ -76,6 +169,9 @@
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshow/a-gentle-introduction-to-mlsecops-2024-10-11/272938603
       title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=HyPVG2J2HPE&t=3663s
+      title: Talk
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_speaker-devsecopsday-bologna-activity-7256373723090337793-mPg2
       title: LinkedIn
@@ -133,7 +229,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [speaker,host,organiser]
-  topics: [data-science,machine-learning,DevOps,MLOps]
+  topics: [data,data-science,machine-learning,DevOps,MLOps]
   image: https://secure.meetupstatic.com/photos/event/7/9/5/e/600_523231070.webp
 
 - name: "ComputerVision & DecisionMaking"
@@ -155,7 +251,7 @@
   type: meetup
   where: PyDataVenice
   roles: [host,organiser]
-  topics: [data-science,machine-learning]
+  topics: [data,data-science,machine-learning]
   image: https://secure.meetupstatic.com/photos/event/a/4/4/600_520922628.webp
 
 - name: "Custom processing and modeling with Amazon SageMaker"
@@ -202,7 +298,7 @@
   type: talk
   where: CloudConf
   roles: [speaker,mentor]
-  topics: [data-analytics]
+  topics: [data,data-analytics]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf2024.png
 
 - name: "MLOps vs LLMOps"
@@ -252,7 +348,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [speaker,host,organiser]
-  topics: [data-analytics]
+  topics: [data,data-analytics]
   image: https://secure.meetupstatic.com/photos/event/a/a/c/1/600_520423713.webp
 
 - name: "OpenCV"
@@ -371,7 +467,7 @@
   type: meetup
   where: PyDataVenice
   roles: [speaker,host,organiser]
-  topics: [data-science,machine-learning]
+  topics: [data,data-science,machine-learning]
   image: https://secure.meetupstatic.com/photos/event/b/b/0/e/600_518987886.webp
 
 - name: "Forecasting in AWS"
@@ -443,7 +539,7 @@
   type: talk
   where: PyDataGlobal
   roles: [speaker,mentor]
-  topics: [data-science]
+  topics: [data,data-science]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/PyDataGlobal.2023.jpg
 
 - name: "Parallelize data processing"
@@ -471,7 +567,7 @@
   type: meetup
   where: PyDataVenice
   roles: [speaker,host,organiser]
-  topics: [data-science]
+  topics: [data,data-science]
   image: https://secure.meetupstatic.com/photos/event/1/e/1/1/600_516307697.webp
 
 - name: "The Fourier transformation"
@@ -499,7 +595,7 @@
   type: meetup
   where: PyDataVenice
   roles: [speaker,host,organiser]
-  topics: [data-science]
+  topics: [data,data-science]
   image: https://secure.meetupstatic.com/photos/event/b/4/9/5/600_514186229.webp
 
 - name: "Anomaly Detection and IP Insights"
@@ -568,7 +664,7 @@
   type: talk
   where: CloudConf
   roles: [speaker,mentor]
-  topics: [data-science]
+  topics: [data,data-science]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2022.jpg
 
 - name: "Anomaly Detection on AWS"
