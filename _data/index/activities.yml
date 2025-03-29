@@ -28,6 +28,7 @@
       title: AWS User Group Venezia Meetup
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshow/genai-powered-assistants-compared-in-a-real-case-2025-03-18/277254445
+      title: Slide
     - icon: fa-youtube
       url: https://www.youtube.com/watch?v=9S6oTLqX0nQ
       title: Talk
@@ -37,6 +38,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1902689652303130962
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/bilardi/genai-powered-assistants-comparison
+      title: GitHub
   date: 2025-03-18
   type: meetup
   where: AWSUserGroupVenezia
