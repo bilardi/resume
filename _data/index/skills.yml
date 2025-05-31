@@ -2,7 +2,7 @@
 
 - label: 
   id : bcs
-  title : I'm Bioinformatics
+  title : I'm a Bioinformatics
   class: l6
   type: radar
   aspects: Phisiology, Molecular Biology, Cardiac Surgery, Bioinformatics, Biocuration, Endocrinology
@@ -13,5 +13,5 @@
   title: I'm Data & Automation Specialist
   class: l6
   type: radar
-  aspects: Machine learning, Data Ops, ML Ops, Dev Ops, Databases, Data Analysis
-  percentage: 85, 80, 85, 90, 90, 85
+  aspects: Machine learning, Data Ops, ML Ops, Dev Ops, Databases, Data Analytics
+  percentage: 90, 80, 90, 85, 80, 85
