@@ -1,7 +1,7 @@
 - name: "Amazon Q and Amazon Bedrock, fully managed vs. custom"
   descr: "I shared my experience on Amazon Q, Bedrock and SageMaker, that they are AWS services about AI/ML"
   link:
-    - icon: fa-meetup
+    - icon: fa-calendar
       url: https://www.aiconf.it/e/sessione/3727/Amazon-Q-and-Amazon-Bedrock-fully-managed-vs-custom
       title: AIConf2025
     - icon: fa-slideshare
@@ -45,9 +45,9 @@
 - name: "The Art of Data Visualization"
   descr: "I shared my data visualization study: from EDA and process tracking to communication"
   link:
-    - icon: fa-meetup
+    - icon: fa-calendar
       url: https://2025.pycon.it/en/event/the-art-of-data-visualization
-      title: PyCon Italia
+      title: PyConIT2025
     - icon: fa-slideshare
       url: https://2025.pycon.it/en/event/the-art-of-data-visualization
       title: Slide
@@ -62,7 +62,7 @@
       title: Tweets
   date: 2025-05-31
   type: talk
-  where: PyCon Italia
+  where: PyConIT
   roles: [speaker]
   topics: [data,data-science,data-visualization]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/PyConItalia2025.png
