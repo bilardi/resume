@@ -1,3 +1,116 @@
+- name: "Amazon Q and Amazon Bedrock, fully managed vs. custom"
+  descr: "I shared my experience on Amazon Q, Bedrock and SageMaker, that they are AWS services about AI/ML"
+  link:
+    - icon: fa-meetup
+      url: https://www.aiconf.it/e/sessione/3727/Amazon-Q-and-Amazon-Bedrock-fully-managed-vs-custom
+      title: AIConf2025
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/amazon-q-and-amazon-bedrock-fully-managed-vs-custom-2025-06-25/281091991
+      title: Slide
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_datascience-machinelearning-generativeai-activity-7344731129310015488-U_D9
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1938966665313833235
+      title: Tweets
+  date: 2025-06-25
+  type: talk
+  where: AIConf
+  roles: [speaker]
+  topics: [artificial-intelligence,machine-learning]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AIConf2025.png
+
+- name: "GraphAI & Data versioning"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/305865152/
+      title: PyData Venice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=_yMDWpG3x2Q
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/pydata-venice_pydatavenice-apacheiceberg-pyarrow-activity-7342502523292803073-oumn
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/1936737660862603413
+      title: Tweets
+  date: 2025-06-19
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [data,data-science,data-analytics,data-management,machine-learning]
+  image: https://secure.meetupstatic.com/photos/event/5/a/c/0/highres_528023232.webp
+
+- name: "The Art of Data Visualization"
+  descr: "I shared my data visualization study: from EDA and process tracking to communication"
+  link:
+    - icon: fa-meetup
+      url: https://2025.pycon.it/en/event/the-art-of-data-visualization
+      title: PyCon Italia
+    - icon: fa-slideshare
+      url: https://2025.pycon.it/en/event/the-art-of-data-visualization
+      title: Slide
+    - icon: fa-youtube
+      url: https://youtu.be/_tIotmfRSKM?t=5010
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_python-optimization-web-activity-7333753131547131906-UumZ
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1927987963180261483
+      title: Tweets
+  date: 2025-05-31
+  type: talk
+  where: PyCon Italia
+  roles: [speaker]
+  topics: [data,data-science,data-visualization]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/PyConItalia2025.png
+
+- name: "Serverless"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/305666743/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=wPIsTioudTw
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7332335699439828992
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1926571433146060853
+      title: Tweets
+  date: 2025-05-20
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser]
+  topics: [database,serverless]
+  image: https://secure.meetupstatic.com/photos/event/5/9/2/e/highres_527422830.webp
+
+- name: "Graph Database"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/305738841/
+      title: PyData Venice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=MEb0r2K9auA
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7320002904705126403
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/1914237909961519524
+      title: Tweets
+  date: 2025-04-17
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [database,data-science]
+  image: https://secure.meetupstatic.com/photos/event/5/7/e/e/highres_526882510.webp
+
 - name: "Data Management on AWS: from caos to centralized governance"
   descr: "I was on the Corley Cloud staff and I shared my experience on Data management on the AWS services."
   link:
@@ -49,7 +162,7 @@
   image: https://secure.meetupstatic.com/photos/event/c/b/9/e/600_526492126.webp
 
 - name: "Mobility & Graph"
-  descr: "I orginized the event."
+  descr: "I organized the event."
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/pydata-venice/events/305735858/
@@ -118,7 +231,7 @@
   image: https://secure.meetupstatic.com/photos/event/9/0/5/b/600_524556955.webp
 
 - name: "Serverless"
-  descr: "I orginized the event."
+  descr: "I organized the event."
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/aws-user-group-venezia/events/304254690/
@@ -237,7 +350,7 @@
   image: https://secure.meetupstatic.com/photos/event/7/9/5/e/600_523231070.webp
 
 - name: "ComputerVision & DecisionMaking"
-  descr: "I orginized the event."
+  descr: "I organized the event."
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/pydata-venice/events/300883684/
@@ -262,7 +375,7 @@
   descr: "The AI Conf offered me a space for my talk on how to processing and modeling with own custom code on the Amazon SageMaker services."
   link:
     - icon: fa-calendar
-      url: https://www.aiconf.it/2024
+      url: https://www.aiconf.it/e/sessione/3481/Modeling-e-processing-custom-con-Amazon-SageMaker
       title: AIConf2024
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshow/custom-processing-and-modeling-with-amazon-sagemaker-2024-06-17/269853360
@@ -384,7 +497,7 @@
   image: https://secure.meetupstatic.com/photos/event/2/c/3/e/600_519791326.webp
 
 - name: "Serverless"
-  descr: "I orginized the event."
+  descr: "I organized the event."
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/aws-user-group-venezia/events/299565922/
@@ -497,7 +610,7 @@
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/meetups/AUGPadova.2024.jpg
 
 - name: "Serverless & Database"
-  descr: "I orginized the event."
+  descr: "I organized the event."
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/aws-user-group-venezia/events/297575714/
