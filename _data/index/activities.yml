@@ -7,6 +7,9 @@
     - icon: fa-slideshare
       url: https://www.slideshare.net/slideshow/amazon-q-and-amazon-bedrock-fully-managed-vs-custom-2025-06-25/281091991
       title: Slide
+    - icon: fa-youtube
+      url: https://www.improove.tech/videos/3727/Amazon-Q-and-Amazon-Bedrock-fully-managed-vs-custom
+      title: Talk
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_datascience-machinelearning-generativeai-activity-7344731129310015488-U_D9
       title: LinkedIn
@@ -381,7 +384,7 @@
       url: https://www.slideshare.net/slideshow/custom-processing-and-modeling-with-amazon-sagemaker-2024-06-17/269853360
       title: Slide
     - icon: fa-youtube
-      url: https://www.cloudchampions.tech/e/sessione/3481/Processing-e-modeling-custom-con-Amazon-SageMaker
+      url: https://www.improove.tech/videos/3481/Modeling-e-processing-custom-con-Amazon-SageMaker
       title: Talk
     - icon: fa-linkedin
       url: https://www.linkedin.com/posts/bilardi_aiconf2024-amazon-sagemaker-activity-7209989323037855744-d0e0
