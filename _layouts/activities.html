@@ -37,7 +37,7 @@ layout: default
             <h2>When</h2>
             {% capture years_string %}{% for activity in site.data.index["activities"] %}{{ activity.date | date: '%Y' }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
             {% assign years = years_string | split: ',' | sort | reverse %}
-            {% include collections/activities-cloud.html class="years" list=years %}
+            {% include collections/activities-cloud.html class="when" list=years %}
         </div>
     </div>
 </div>

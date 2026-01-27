@@ -13,8 +13,8 @@
   {% capture where_classes %}
     {% for location in item.where %}where-{{ location }} {% endfor %}
   {% endcapture %}
-  {% capture years_classes %}years-{{ item.date | date: '%Y' }}{% endcapture %}
-    <div class="row activity-row {{ roles_classes}} {{ topics_classes }} {{ where_classes }} {{ years_classes }}" style="margin: 25px 0 0 0" {% if filter == page.filter %}hidden{% endif %}>
+  {% capture when_classes %}when-{{ item.date | date: '%Y' }}{% endcapture %}
+    <div class="row activity-row {{ roles_classes}} {{ topics_classes }} {{ where_classes }} {{ when_classes }}" style="margin: 25px 0 0 0" {% if filter == page.filter %}hidden{% endif %}>
             <div class="col {% if item.image %}l10{% endif %}">
                 <h4 style="margin: 0">
                 {% if item.date %}
