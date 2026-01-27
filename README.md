@@ -10,3 +10,25 @@ This repository is my iterative resume theme powered by jekyll forked from the r
 - I removed the original posts and moved the README.md of the repository forked into [CHANGES.md](https://github.com/bilardi/notes/blob/master/CHANGES.md)
 - I wrote the contents like the mind map below
 ![My mind map](https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/about/mind.map.resume.png)
+
+## Development
+
+```sh
+docker-compose up # or postman-compose up
+```
+
+If something is not updated,
+
+```sh
+rm -rf _site .jekyll-cache .jekyll-metadata
+touch .jekyll-metadata; chmod 777 .jekyll-metadata
+touch Gemfile.lock; chmod 777 Gemfile.lock
+```
+
+Not commit (there are also in the .gitignore file)
+
+* _site
+* .jekyll-cache
+* .jekyll-metadata
+* Gemfile.lock
+

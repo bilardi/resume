@@ -1,3 +1,337 @@
+- name: "Machine Learning edition"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/310565375/
+      title: PyDataVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=oK_1RjKro_g
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7410366059880407040
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/2004601073437475293
+      title: Tweets
+  date: 2025-12-18
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [artificial-intelligence,machine-learning]
+  image: https://secure.meetupstatic.com/photos/event/8/3/a/3/highres_531573699.webp
+
+- name: "Competition"
+  descr: "I organized the AWS JAM event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/310538495/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=5RIfxG-fM1Q
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7400909524058017795
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1995146000894500898
+      title: Tweets
+  date: 2025-11-27
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser,mentor]
+  topics: [aws,competition]
+  image: https://secure.meetupstatic.com/photos/event/4/0/4/a/highres_530416458.webp
+
+- name: "Python & GoogleCloud"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/311920824/
+      title: PyVenice Meetup
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7400926714085842944
+      title: LinkedIn
+    - icon: fa-mastodon
+      url: https://social.python.it/@pyvenice/115639509108929170
+      title: Mastodon
+  date: 2025-11-25
+  type: meetup
+  where: PyVenice
+  roles: [host,organiser]
+  topics: [gcp,aws,python]
+  image: https://secure.meetupstatic.com/photos/event/2/d/7/3/highres_531191635.webp
+
+- name: "From local to cluster: scaling data workloads with cluster managers like Kubernetes and YARN"
+  descr: "The GrUSP offered me a space for my talk on what is the best approach to working with one-shot project."
+  link:
+    - icon: fa-calendar
+      url: https://www.containerday.it/archivio-talk/from-local-to-cluster-scaling-data-workloads-with-kubernetes-and-yarn/
+      title: ContainerDay
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/from-local-to-cluster-scaling-data-workloads-with-cluster-managers-like-kubernetes-and-yarn-2025-11-05/285487190
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=biHVVl71VY0&t=19979s
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_devsecopsday-containerday-talk-activity-7393023371896225792-38eT
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1987258196709241087
+      title: Tweets
+  date: 2025-11-05
+  type: talk
+  where: ContainerDay
+  roles: [speaker]
+  topics: [aws,data,data-science,DevOps]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/ContainerDay2025.png
+
+- name: "GraphRAG, Analysis & Forecasting"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/305865171/
+      title: PyDataVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=_1ApTJuY-68
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7410366059880407040
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/1987268447844417706
+      title: Tweets
+  date: 2025-10-30
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [data,artificial-intelligence,machine-learning]
+  image: https://secure.meetupstatic.com/photos/event/4/1/b/3/highres_530356819.webp
+
+- name: "Data Management on AWS: From Chaos to Centralized Governance"
+  descr: "I shared my experience on Data management on the AWS services."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-padova/events/311304204/
+      title: AWS User Group Padova Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/data-management-on-aws-from-chaos-to-centralized-governance/285487159
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/live/Pt8V9YkKJV8
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/agostiniluca_awsusergrouppadova-aws-ugcPost-7391383284934606848-Km-6
+      title: LinkedIn
+  date: 2025-10-28
+  type: meetup
+  where: AWSUserGroupPadova
+  roles: [speaker]
+  topics: [aws,data,data-management]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/meetups/AUGPadova2025.png
+
+- name: "Data Visualization: from EDA to Communication"
+  descr: "I shared my research on data visualization by examining old case studies."
+  link:
+    - icon: fa-calendar
+      url: https://conferences.codemotion.com/milan2025/speakers/
+      title: Codemotion Conference
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/data-visualization-from-eda-to-communication-2025-10-15/285487116
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=4x4VJFewd08
+      title: Event
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/bilardi_startupper-lab-sticker-activity-7385258629534461952-jAzl
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/abilardi/status/1979494657760670130
+      title: Tweets
+  date: 2025-10-15
+  type: talk
+  where: Codemotion
+  roles: [speaker]
+  topics: [data,data-science,data-visualization]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/Codemotion2025.png
+
+- name: "Coding assistants Open Source with custom Agents AI"
+  descr: "I shared my study on how to use Fast API to simulate ollama and Open API."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/311033533/
+      title: PyVenice Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/coding-assistants-open-source-with-custom-agents-ai-2025-10-02/285487048
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=bztnHcROoHM
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7380683795307446273
+      title: LinkedIn
+    - icon: fa-mastodon
+      url: https://social.python.it/@pyvenice/115323106101738620
+      title: Mastodon
+    - icon: fa-github
+      url: https://github.com/pyvenice/meetups/tree/master/2025/10
+      title: GitHub
+  date: 2025-10-02
+  type: meetup
+  where: PyVenice
+  roles: [speaker]
+  topics: [artificial-intelligence,python]
+  image: https://secure.meetupstatic.com/photos/event/d/1/9/2/highres_530513650.webp
+
+- name: "Alexa & Bedrock"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/305666752/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=T25hbLzpGc4
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7378363152184475648
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1972599225784697277
+      title: Tweets
+  date: 2025-09-25
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser]
+  topics: [aws,artificial-intelligence,data,iot]
+  image: https://secure.meetupstatic.com/photos/event/b/d/f/8/highres_529908632.webp
+
+- name: "When data visualization betrays"
+  descr: "I shared my research on data visualization by examining old case studies."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/python-bari/events/311007331/
+      title: PyBari Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/quando-la-data-visualization-tradisce-2025-09-23/283400336
+      title: Slide
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7373656955032264704/
+      title: LinkedIn
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/pybari_pybari-pybari-python-activity-7384890940060250112-mIJg
+      title: LinkedIn
+  date: 2025-09-23
+  type: meetup
+  where: PyBari
+  roles: [speaker]
+  topics: [data,data-science,data-visualization]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/meetups/PyBari2025.png
+
+- name: "Competition"
+  descr: "I organized the AWS Cloud Quest event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/310538528/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/aws-cloud-quest-competition-2025-09-16/285486959
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=GB4eUm1p5b8
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7378124490867728384
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/1972359660536836242
+      title: Tweets
+  date: 2025-09-16
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser,mentor]
+  topics: [aws,competition]
+  image: https://secure.meetupstatic.com/photos/event/6/1/4/a/highres_529644906.webp
+
+- name: "Pappagalli Stocastici & Agents to the people"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/310450900/
+      title: PyVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=XjpO9wMchko
+      title: Talk1
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=BuidHYKDBz8
+      title: Talk2
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=omFcDGKStE8
+      title: Talk3
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=cED1hMUFsgo
+      title: Lab
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/pyvenice_pyvenice-generativeai-largelanguagemodel-ugcPost-7372681283346345985-gLR2
+    - icon: fa-mastodon
+      url: https://social.python.it/@pyvenice/115198192754756588
+      title: Mastodon
+    - icon: fa-github
+      url: https://github.com/pyvenice/meetups/tree/master/2025/09
+      title: GitHub
+  date: 2025-09-05
+  type: meetup
+  where: PyVenice
+  roles: [organiser]
+  topics: [artificial-intelligence]
+  image: https://secure.meetupstatic.com/photos/event/d/9/4/e/highres_529555630.webp
+
+- name: "Scramble AI: Solving and Scrambling the Rubik's Cube with Machine Learning"
+  descr: "My son and I shared our experience of our first edge AI project"
+  link:
+    - icon: fa-calendar
+      url: https://pretalx.endsummer.camp/2K25/talk/DRUZMB/
+      title: ESC2025
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/scramble-ai-s-combinatore-del-cubo-di-rubik-con-ml-2025-09-04/283399880
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=92SWQ50b4oA
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7373656955032264704/
+      title: LinkedIn
+  date: 2025-09-04
+  type: talk
+  where: ESC
+  roles: [speaker,mentor]
+  topics: [3d-printing,machine-learning]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/ESC2025.png
+
+- name: "Data Analysis Workshop"
+  descr: "I shared my experience on Exploratory Data Analysis in the first PyData Venice workshop"
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/310339068/
+      title: PyData Venice Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/data-analysis-workshop-and-kaggle-competition-2025-08-28/283399192
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=0T720NCMS2o
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7367542090479689728/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/1961773095812759894
+      title: Tweets
+  date: 2025-08-28
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser,speaker]
+  topics: [data,data-analytics,data-science]
+  image: https://secure.meetupstatic.com/photos/event/d/0/2/4/highres_529433284.webp
+
 - name: "Amazon Q and Amazon Bedrock, fully managed vs. custom"
   descr: "I shared my experience on Amazon Q, Bedrock and SageMaker, that they are AWS services about AI/ML"
   link:
@@ -20,7 +354,7 @@
   type: talk
   where: AIConf
   roles: [speaker]
-  topics: [artificial-intelligence,machine-learning]
+  topics: [aws,artificial-intelligence,machine-learning]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AIConf2025.png
 
 - name: "GraphAI & Data versioning"
@@ -89,7 +423,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [host,organiser]
-  topics: [database,serverless]
+  topics: [aws,database,serverless]
   image: https://secure.meetupstatic.com/photos/event/5/9/2/e/highres_527422830.webp
 
 - name: "Graph Database"
@@ -133,7 +467,7 @@
   type: talk
   where: CloudConf
   roles: [speaker]
-  topics: [data,data-management]
+  topics: [aws,data,data-management]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf2025.png
 
 - name: "GenAI-powered assistants compared in a real case"
@@ -161,7 +495,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [speaker,host,organiser]
-  topics: [artificial-intelligence,machine-learning]
+  topics: [aws,artificial-intelligence,machine-learning]
   image: https://secure.meetupstatic.com/photos/event/c/b/9/e/600_526492126.webp
 
 - name: "Mobility & Graph"
@@ -187,7 +521,7 @@
   image: https://secure.meetupstatic.com/photos/event/e/9/2/600_525963730.webp
 
 - name: "Forecasting in AWS"
-  descr: "I shared my stydy on which AWS services there are for forecasting scenarious."
+  descr: "I shared my study on which AWS services there are for forecasting scenarious."
   link:
     - icon: fa-meetup
       url: https://www.meetup.com/aws-user-group-venezia/events/305587789/
@@ -208,7 +542,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [speaker,host,organiser]
-  topics: [artificial-intelligence,machine-learning]
+  topics: [aws,artificial-intelligence,machine-learning]
   image: https://secure.meetupstatic.com/photos/event/9/8/d/6/600_525699126.webp
 
 - name: "ComputerVision & CodingProductivity"
@@ -252,7 +586,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [host,organiser]
-  topics: [serverless,DevOps]
+  topics: [aws,serverless,DevOps]
   image: https://secure.meetupstatic.com/photos/event/9/f/3/a/600_524380762.webp
 
 - name: "Hugging Face"
@@ -324,7 +658,7 @@
   type: meetup
   where: AWSUserGroupBari
   roles: [speaker]
-  topics: [machine-learning]
+  topics: [aws,machine-learning]
   image: https://secure.meetupstatic.com/photos/event/2/e/0/8/600_523331784.webp
 
 - name: "Data scientist vs Cloud engineer: who wins ?"
@@ -349,7 +683,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [speaker,host,organiser]
-  topics: [data,data-science,machine-learning,DevOps,MLOps]
+  topics: [aws,data,data-science,machine-learning,DevOps,MLOps]
   image: https://secure.meetupstatic.com/photos/event/7/9/5/e/600_523231070.webp
 
 - name: "ComputerVision & DecisionMaking"
@@ -396,7 +730,7 @@
   type: talk
   where: AIConf
   roles: [speaker]
-  topics: [machine-learning]
+  topics: [aws,machine-learning]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AIConf2024.png
 
 - name: "IoT: ingestion, streaming, real-time and interactive data analysis"
@@ -418,7 +752,7 @@
   type: talk
   where: CloudConf
   roles: [speaker,mentor]
-  topics: [data,data-analytics]
+  topics: [aws,data,data-analytics]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf2024.png
 
 - name: "MLOps vs LLMOps"
@@ -468,7 +802,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [speaker,host,organiser]
-  topics: [data,data-analytics]
+  topics: [aws,data,data-analytics]
   image: https://secure.meetupstatic.com/photos/event/a/a/c/1/600_520423713.webp
 
 - name: "OpenCV"
@@ -518,7 +852,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [host,organiser]
-  topics: [serverless]
+  topics: [aws,serverless]
   image: https://secure.meetupstatic.com/photos/event/5/2/c/c/600_519501196.webp
 
 - name: "Corley Innovation Day: ML & AI on AWS"
@@ -534,7 +868,7 @@
   type: talk
   where: CorleyInnovationDay
   roles: [speaker]
-  topics: [artificial-intelligence,machine-learning]
+  topics: [aws,artificial-intelligence,machine-learning]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CorleyInnovationDay.202403.png
 
 - name: "How to move your ML system from local to production"
@@ -609,7 +943,7 @@
   type: meetup
   where: AWSUserGroupPadova
   roles: [speaker]
-  topics: [machine-learning]
+  topics: [aws,machine-learning]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/meetups/AUGPadova.2024.jpg
 
 - name: "Serverless & Database"
@@ -631,7 +965,7 @@
   type: meetup
   where: AWSUserGroupVenezia
   roles: [host,organiser]
-  topics: [database,serverless]
+  topics: [aws,database,serverless]
   image: https://secure.meetupstatic.com/photos/event/d/d/a/8/600_517496744.webp
 
 - name: "From your laptop to all resource that you need"
@@ -659,7 +993,7 @@
   type: talk
   where: PyDataGlobal
   roles: [speaker,mentor]
-  topics: [data,data-science]
+  topics: [aws,data,data-science]
   image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/PyDataGlobal.2023.jpg
 
 - name: "Parallelize data processing"
@@ -740,7 +1074,7 @@
   type: talk
   where: HackInBo
   roles: [speaker]
-  topics: [machine-learning]
+  topics: [aws,machine-learning]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/HackInBoSpringEdition.2023.jpg
 
 - name: "Forecasting in AWS"
@@ -762,7 +1096,7 @@
   type: talk
   where: CloudConf
   roles: [speaker,mentor]
-  topics: [machine-learning]
+  topics: [aws,machine-learning]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2023.jpg
 
 - name: "Data transformation on AWS"
@@ -784,7 +1118,7 @@
   type: talk
   where: CloudConf
   roles: [speaker,mentor]
-  topics: [data,data-science]
+  topics: [aws,data,data-science]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2022.jpg
 
 - name: "Anomaly Detection on AWS"
@@ -803,7 +1137,7 @@
   type: talk
   where: CloudConf
   roles: [speaker]
-  topics: [machine-learning]
+  topics: [aws,machine-learning]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudParty.2022.jpg
 
 - name: "Automation: from local test to production deploy"
@@ -825,7 +1159,7 @@
   type: talk
   where: CloudConf
   roles: [speaker]
-  topics: [DevOps]
+  topics: [aws,DevOps]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2020.jpg
 
 - name: AWS database solutions and open sources
@@ -844,7 +1178,7 @@
   type: talk
   where: CloudConf
   roles: [speaker,mentor]
-  topics: [database]
+  topics: [aws,database]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/CloudConf.2019.jpg
 
 - name: Managed Relational Databases
@@ -866,7 +1200,7 @@
   type: talk
   where: AWSSummit
   roles: [speaker]
-  topics: [database]
+  topics: [aws,database]
   image: https://s3-eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AWS.Summit.2018.jpg
 
 - name: GBrowse.org
