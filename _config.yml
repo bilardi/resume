@@ -111,7 +111,7 @@ owner:
   bing-verify:
   github: bilardi #username
   gitlab: #username
-  stackoverflow: 1472538 #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #1472538 #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: bilardi #username
   skype: #username
   xing: #username
@@ -130,16 +130,18 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
-  wikipedia: Bilardi #username
+  wikipedia: #Bilardi #username
+  threads: alessandra.bilardi
+  mastodon: mastodon.social/@bilardi
   custom:
     - url: https://bilardi.github.io/resume/feed.xml
       icon: fa-rss
-    - url: https://www.pandle.net/
-      icon: fa-share-alt
-    - url: https://bilardi.github.io/bookmarks/
-      icon: fa-bookmark
+    - url: https://dev.to/bilardi
+      icon: fa-blog
     - url: https://bilardi.github.io/notes/
       icon: fa-tags
+    - url: https://www.pandle.net/
+      icon: fa-share-alt
     - url: http://github.com/bilardi/leonids/
       icon: fa-code-fork
 
