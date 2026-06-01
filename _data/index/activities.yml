@@ -1,3 +1,303 @@
+- name: "When boto3 doesn't have it (yet), you write it: a real-time speech-to-speech story in Python"
+  descr: "I shared my project on speech-to-speech and the first Amazon Polly Streaming library in Python."
+  link:
+    - icon: fa-calendar
+      url: https://2026.pycon.it/it/event/when-boto3-doesnt-have-it-yet-you-write-it-a-real-time-speech-to-speech-story-in-python
+      title: PyConIT
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/when-boto3-doesn-t-have-it-yet-you-write-it-a-real-time-speech-to-speech-story-in-python-2026-05-30/287860276
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=7tzMLV1ar1M&t=8268s
+      title: Talk
+    - icon: fa-linkedin
+      url:
+      title: LinkedIn
+    - icon: fa-twitter
+      url:
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/bilardi/realtime-speech-to-speech
+      title: GitHub
+  date: 2026-05-30
+  type: talk
+  where: PyConIT
+  roles: [speaker]
+  topics: [aws,data,machine-learning,python]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/PyCon.Italia.2026.sts.jpg
+
+- name: "Data Management on AWS: From Chaos to Centralized Governance"
+  descr: "I shared my experience on Data management on the AWS services."
+  link:
+    - icon: fa-calendar
+      url: https://aws.amazon.com/it/events/summits/milano/
+      title: AWS Summit
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/data-management-on-aws-from-chaos-to-centralized-governance-2026-05-28/287860220
+      title: Slide
+    - icon: fa-linkedin
+      url:
+      title: LinkedIn
+    - icon: fa-twitter
+      url:
+      title: Tweets
+  date: 2026-05-28
+  type: talk
+  where: AWSSummit
+  roles: [speaker]
+  topics: [aws,data,data-management]
+  image: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/talks/AWS.Summit.Milano.2026.png
+
+- name: "Introduction of EDA"
+  descr: "I shared my experience on Exploratory Data Analysis in a PyConIT workshop"
+  link:
+    - icon: fa-calendar
+      url: https://2026.pycon.it/it/event/eda-introduttiva-leggere-i-grafici-e-guidare-lanalisi-con-librerie-open-source
+      title: PyConIT
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/introduction-of-exploratory-data-analysis-2026-05-27/287860179
+      title: Slide
+    - icon: fa-linkedin
+      url:
+      title: LinkedIn
+    - icon: fa-twitter
+      url:
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/bilardi/smltk
+      title: GitHub
+  date: 2026-05-27
+  type: talk
+  where: PyConIT
+  roles: [speaker]
+  topics: [data,data-science,python]
+  image: https://drive.google.com/thumbnail?id=1h1RJaro_C5Fzk8EwttcF1u4AgGC1I44S
+
+- name: "Introduction of TDD"
+  descr: "I shared my experience on Test Driven Development in a PyConIT workshop"
+  link:
+    - icon: fa-calendar
+      url: https://2026.pycon.it/it/event/primi-passi-in-python-con-il-tdd-dalle-variabili-al-primo-test
+      title: PyConIT
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/introduction-of-tdd-in-python-2026-05-27/287860137
+      title: Slide
+    - icon: fa-linkedin
+      url:
+      title: LinkedIn
+    - icon: fa-twitter
+      url:
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/bilardi/python-prototype/
+      title: GitHub
+  date: 2026-05-27
+  type: talk
+  where: PyConIT
+  roles: [speaker]
+  topics: [tdd,python]
+  image: https://drive.google.com/thumbnail?id=1G_jNUAgUrMfRxNIENG_dM7GG1NnK5-77
+
+- name: "AgentCore & CostOptimization"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/312818434/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=Mtf3yn8A6Hs
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7465030922573217792
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/2059265433698447676
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/15_AgentCore_CostOptimization
+      title: GitHub
+  date: 2026-05-21
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser]
+  topics: [aws,DevOps,FinOps,agents]
+  image: https://secure.meetupstatic.com/photos/event/3/0/5/2/highres_533892370.webp
+
+- name: "ClimateNetworks & Trading"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/312820080/
+      title: PyDataVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=bFUAZFkgbBE
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7458209527713292288
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/2052443485622419626
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/pydata-venice/PyDataVE/tree/master/meetups/26_ClimateNetworks_Trading
+      title: GitHub
+  date: 2026-04-30
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [data,data-science,trading]
+  image: https://secure.meetupstatic.com/photos/event/a/4/0/4/highres_533321988.webp
+
+- name: "n8n Workshop"
+  descr: "I shared my experience on n8n in the first PyVenice workshop"
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/312919609/
+      title: PyVenice Meetup
+    - icon: fa-slideshare
+      url: https://www.slideshare.net/slideshow/n8n-workshop-in-presence-in-streaming-2026-04-16/287860095
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=pjUlaJnpAWw
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7454228106862587904
+      title: LinkedIn
+    - icon: fa-mastodon
+      url: https://social.python.it/@pyvenice/116472299418571863
+      title: Mastodon
+    - icon: fa-github
+      url: https://github.com/pyvenice/meetups/tree/master/2026/04
+      title: GitHub
+  date: 2026-04-16
+  type: meetup
+  where: PyVenice
+  roles: [speaker,host,organiser]
+  topics: [python]
+  image: https://secure.meetupstatic.com/photos/event/b/d/8/9/highres_533268521.webp
+
+- name: "FullStack & CloudComputing"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/312818422/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=BGmyMViYBfY
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:ugcPost:7451040211951640576/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/2045274065850540482
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/14_FullStack_CloudComputing
+      title: GitHub
+  date: 2026-03-26
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser]
+  topics: [aws,DevOps]
+  image: https://secure.meetupstatic.com/photos/event/1/2/3/f/highres_532624671.webp
+
+- name: "Competition"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/312818401/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7441146923539120128/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/2035381996122202164
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/13_Competition
+      title: GitHub
+  date: 2026-03-17
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser]
+  topics: [aws,competition]
+  image: https://secure.meetupstatic.com/photos/event/c/d/4/highres_532983284.webp
+
+- name: "Bayesian Analysis & Trading"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/312820060/
+      title: PyDataVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=ayMQMEimhqc
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7433910733983121408/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/2028147777604047149
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/pydata-venice/PyDataVE/tree/master/meetups/25_BayesianAnalysis_Trading
+      title: GitHub
+  date: 2026-02-26
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [data,data-science,trading]
+  image: https://secure.meetupstatic.com/photos/event/5/0/6/f/highres_532280591.webp
+
+- name: "Flask & DjangoNinja"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/312919598/
+      title: PyVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=x3ZxTS_DJIU
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7440161745437892608
+      title: LinkedIn
+    - icon: fa-mastodon
+      url: https://social.python.it/@pyvenice/116252566345647022
+      title: Mastodon
+    - icon: fa-github
+      url: https://github.com/pyvenice/meetups/tree/master/2026/02
+      title: GitHub
+  date: 2026-02-19
+  type: meetup
+  where: PyVenice
+  roles: [host,organiser]
+  topics: [python]
+  image: https://secure.meetupstatic.com/photos/event/8/e/3/2/highres_532416402.webp
+
+- name: "Networking & Serverless"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/312351692/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=3U3DoBX5avU
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7424873243464904705/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/2019110916009390398
+      title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/12_Networking_Serverless
+      title: GitHub
+  date: 2026-01-29
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser]
+  topics: [aws,DevOps,serverless]
+  image: https://secure.meetupstatic.com/photos/event/7/7/2/6/highres_531690502.webp
+
 - name: "Machine Learning edition"
   descr: "I organized the event."
   link:
@@ -35,6 +335,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1995146000894500898
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/11_Competition
+      title: GitHub
   date: 2025-11-27
   type: meetup
   where: AWSUserGroupVenezia
@@ -198,6 +501,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1972599225784697277
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/10_Alexa_Bedrock
+      title: GitHub
   date: 2025-09-25
   type: meetup
   where: AWSUserGroupVenezia
@@ -245,6 +551,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1972359660536836242
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/09_Competition
+      title: GitHub
   date: 2025-09-16
   type: meetup
   where: AWSUserGroupVenezia
@@ -419,6 +728,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1926571433146060853
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/08_Serverless
+      title: GitHub
   date: 2025-05-20
   type: meetup
   where: AWSUserGroupVenezia
@@ -489,7 +801,7 @@
       url: https://x.com/AwsUserGroupVe/status/1902689652303130962
       title: Tweets
     - icon: fa-github
-      url: https://github.com/bilardi/genai-powered-assistants-comparison
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/07_GenAI
       title: GitHub
   date: 2025-03-18
   type: meetup
@@ -538,6 +850,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1888351375400018102
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/06_AI_ML
+      title: GitHub
   date: 2025-01-30
   type: meetup
   where: AWSUserGroupVenezia
@@ -582,6 +897,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1864371860160323592
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/05_Serverless
+      title: GitHub
   date: 2024-11-28
   type: meetup
   where: AWSUserGroupVenezia
@@ -679,6 +997,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1837797253185949855
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/04_Data
+      title: GitHub
   date: 2024-09-19
   type: meetup
   where: AWSUserGroupVenezia
@@ -798,6 +1119,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1793705195559416180
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/03_IoT
+      title: GitHub
   date: 2024-05-16
   type: meetup
   where: AWSUserGroupVenezia
@@ -848,6 +1172,9 @@
     - icon: fa-twitter
       url: https://x.com/AwsUserGroupVe/status/1774020466363019389
       title: Tweets
+    - icon: fa-github
+      url: https://github.com/awsugvenezia/meetups/tree/master/meetups/02_Serverless
+      title: GitHub
   date: 2024-03-28
   type: meetup
   where: AWSUserGroupVenezia
