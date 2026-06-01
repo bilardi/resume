@@ -1,3 +1,8 @@
+- name: PyVenice
+  descr: "PyVenice, a roving Python User Group, is a meetup community for anyone interested in Python (at all levels, from complete beginners to seasoned professionals) dedicated to promoting Python throughout the Veneto region. We organize small evening events where we talk about our goals, challenges and solutions!"
+  website: https://www.meetup.com/pyvenice/
+  local: projects/meetups
+
 - name: AWS User Group Venezia
   descr: "AWS is Amazon Wev services provider of computational services that you can pay per use. It brings together cloud architects, cloud engineers, developers and data scientits and others from the AWS services to discuss new solutions or strategies. We organize small evening events where we talk about our goals, challenges and solutions!"
   website: https://www.meetup.com/aws-user-group-venezia/
