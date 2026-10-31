@@ -1,3 +1,166 @@
+- name: "DataSins & MultiArmedBandits"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/312820129/
+      title: PyDataVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=mCqhk7LPacY
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7522321189076160512/
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/2116555631712784456
+      title: Tweets
+  date: 2026-10-22
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [data,data-science,machine-learning]
+  image: https://secure.meetupstatic.com/photos/event/2/f/f/3/highres_536232275.webp
+
+- name: "SLM vs LLM"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/315092734/
+      title: PyVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=ei3jkF35ChY
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7520242383087628288
+      title: LinkedIn
+    - icon: fa-mastodon
+      url: https://social.python.it/@pyvenice/117503766662345907
+      title: Mastodon
+  date: 2026-10-15
+  type: meetup
+  where: PyVenice
+  roles: [host,organiser]
+  topics: [python,machine-learning,artificial-intelligence]
+  image: https://secure.meetupstatic.com/photos/event/8/0/3/1/highres_536252817.webp
+
+- name: "Computing & Governance"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/312818494/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=SCWJc2yMYBI
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7518012329339486208
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/2112246440852398206
+      title: Tweets
+  date: 2026-09-24
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser]
+  topics: [aws,DevOps,serverless]
+  image: https://secure.meetupstatic.com/photos/event/7/9/e/f/highres_535891215.webp
+
+- name: "Programming languages & AI Assistants"
+  descr: "I shared my experience on open and closed AI assistants"
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/312919625/
+      title: PyVenice Meetup
+    - icon: fa-slideshare
+      url: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/meetups/PyVenice%236.pdf
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=z1aSYmDz_Lk
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7507861910961340417
+      title: LinkedIn
+    - icon: fa-mastodon
+      url: https://mastodon.social/@pyvenice@social.python.it/117503766990687276
+      title: Mastodon
+  date: 2026-09-17
+  type: meetup
+  where: PyVenice
+  roles: [speaker,host,organiser]
+  topics: [python,artificial-intelligence]
+  image: https://secure.meetupstatic.com/photos/event/a/0/1/6/highres_535840982.webp
+
+- name: "Competition"
+  descr: "I organized the AWS Card Clash event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/aws-user-group-venezia/events/312818480/
+      title: AWS User Group Venezia Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=cMLO3mVMv7c
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7491810051066601472
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/AwsUserGroupVe/status/2086043878994436326
+      title: Tweets
+  date: 2026-07-30
+  type: meetup
+  where: AWSUserGroupVenezia
+  roles: [host,organiser,mentor]
+  topics: [aws,competition]
+  image: https://secure.meetupstatic.com/photos/event/d/3/9/a/highres_535134170.webp
+
+- name: "n8n Workshop bis"
+  descr: "I shared my experience on n8n in the second PyVenice workshop"
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pyvenice/events/315092577/
+      title: PyVenice Meetup
+    - icon: fa-slideshare
+      url: https://s3.eu-west-1.amazonaws.com/cdn.bilardi.net/resume/meetups/PyVenice%235.pdf
+      title: Slide
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=TowW15EyGwA
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/posts/pyvenice_verona-streaming-aiassistant-activity-7498467643805548560-ak6p
+      title: LinkedIn
+    - icon: fa-mastodon
+      url: https://social.python.it/@pyvenice/117163540838995364
+      title: Mastodon
+    - icon: fa-github
+      url: https://github.com/pyvenice/meetups/tree/master/2026/07
+      title: GitHub
+  date: 2026-07-23
+  type: meetup
+  where: PyVenice
+  roles: [speaker,organiser]
+  topics: [python]
+  image: https://secure.meetupstatic.com/photos/event/5/b/3/0/highres_534683344.webp
+
+- name: "UrbanMobility & AgenticAI"
+  descr: "I organized the event."
+  link:
+    - icon: fa-meetup
+      url: https://www.meetup.com/pydata-venice/events/312820095/
+      title: PyDataVenice Meetup
+    - icon: fa-youtube
+      url: https://www.youtube.com/watch?v=I2P_IKlS3V0
+      title: Talk
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/feed/update/urn:li:activity:7476687530575355904
+      title: LinkedIn
+    - icon: fa-twitter
+      url: https://x.com/PydataVenice/status/2070922325193605276
+      title: Tweets
+  date: 2026-06-18
+  type: meetup
+  where: PyDataVenice
+  roles: [host,organiser]
+  topics: [data,data-science,artificial-intelligence,agents]
+  image: https://secure.meetupstatic.com/photos/event/9/3/4/b/highres_534517707.webp
+
 - name: "When boto3 doesn't have it (yet), you write it: a real-time speech-to-speech story in Python"
   descr: "I shared my project on speech-to-speech and the first Amazon Polly Streaming library in Python."
   link:
