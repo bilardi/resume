@@ -135,7 +135,7 @@
   date: 2026-07-23
   type: meetup
   where: PyVenice
-  roles: [speaker,organiser]
+  roles: [speaker,host,organiser]
   topics: [python]
   image: https://secure.meetupstatic.com/photos/event/5/b/3/0/highres_534683344.webp
 
@@ -434,7 +434,7 @@
   where: PyVenice
   roles: [host,organiser]
   topics: [python]
-  image: https://secure.meetupstatic.com/photos/event/8/e/3/2/highres_532416402.webp
+  image: https://drive.google.com/file/d/11k79elHzPRr703aLXy5TFwysAGtfdEWE/view
 
 - name: "Networking & Serverless"
   descr: "I organized the event."
