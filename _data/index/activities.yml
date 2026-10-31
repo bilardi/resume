@@ -234,7 +234,7 @@
   where: PyConIT
   roles: [speaker]
   topics: [data,data-science,python]
-  image: https://secure.meetupstatic.com/photos/event/5/4/2/a/highres_536901546.webp
+  image: https://drive.google.com/thumbnail?id=1h1RJaro_C5Fzk8EwttcF1u4AgGC1I44S
 
 - name: "Introduction of TDD"
   descr: "I shared my experience on Test Driven Development in a PyConIT workshop"
@@ -434,7 +434,7 @@
   where: PyVenice
   roles: [host,organiser]
   topics: [python]
-  image: https://drive.google.com/file/d/11k79elHzPRr703aLXy5TFwysAGtfdEWE/view
+  image: https://secure.meetupstatic.com/photos/event/5/4/2/a/highres_536901546.webp
 
 - name: "Networking & Serverless"
   descr: "I organized the event."
