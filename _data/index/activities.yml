@@ -234,7 +234,7 @@
   where: PyConIT
   roles: [speaker]
   topics: [data,data-science,python]
-  image: https://drive.google.com/thumbnail?id=1h1RJaro_C5Fzk8EwttcF1u4AgGC1I44S
+  image: https://secure.meetupstatic.com/photos/event/5/4/2/a/highres_536901546.webp
 
 - name: "Introduction of TDD"
   descr: "I shared my experience on Test Driven Development in a PyConIT workshop"
